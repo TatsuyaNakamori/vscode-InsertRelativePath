@@ -1,3 +1,9 @@
 {
-    "ext.description": ""
+    "ext.description": "Insert a relative path",
+
+    "insertrelpath.insertRelPath.title": "Insert relative path XXX",
+
+    "conf.format": "Set the format to be inserted. For more information, please click here[here](http://qiita.com).",
+    "conf.separator": "Path separator.",
+    "conf.withExtension": "Remove the extension."
 }
