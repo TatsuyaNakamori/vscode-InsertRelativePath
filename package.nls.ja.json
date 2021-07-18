@@ -3,7 +3,5 @@
 
     "insertrelpath.insertRelPath.title": "相対パスを挿入する XXX",
 
-    "conf.format": "挿入するフォーマットを設定します。詳しくは、[こちら](http://qiita.com) をご確認ください。",
-    "conf.separator": "パスの区切り文字",
-    "conf.withExtension": "拡張子を取り除きます。"
+    "conf.format": "挿入するフォーマットを設定します。詳しくは、[こちら](http://qiita.com) をご確認ください。"
 }

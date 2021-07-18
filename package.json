@@ -1,8 +1,13 @@
 {
-  "name": "insertrelpath",
+    "name": "insertrelpath",
     "displayName": "Insert a relative path",
     "description": "%ext.description%",
     "version": "0.0.1",
+    "publisher": "TatsuyaNakamori",
+    "author": {
+        "name": "TatsuyaNakamori",
+        "url": "https://github.com/TatsuyaNakamori"
+    },
     "engines": {
         "vscode": "^1.46.0"
     },
@@ -62,22 +67,25 @@
                 "title": "Relative Path",
                 "properties": {
                     "InsertRelPath.format": {
-                        "type": "string",
-                        "default": "${RELPATH}\\ntest",
+                        "type": "object",
+                        "properties": {
+                            "format01": {"type": "string", "default": "[/]{RELPATH}"},
+                            "format02": {"type": "string", "default": "[/]{RELPATH}"},
+                            "format03": {"type": "string", "default": "[/]{RELPATH}"},
+                            "format04": {"type": "string", "default": "[/]{RELPATH}"},
+                            "format05": {"type": "string", "default": "[/]{RELPATH}"},
+                            "format06": {"type": "string", "default": "[/]{RELPATH}"},
+                            "format07": {"type": "string", "default": "[/]{RELPATH}"},
+                            "format08": {"type": "string", "default": "[/]{RELPATH}"},
+                            "format09": {"type": "string", "default": "[/]{RELPATH}"},
+                            "format10": {"type": "string", "default": "[/]{RELPATH}"}
+                        },
+                        "default": {
+                            "format01": "[/]<img src=\"{RELPATH}\" alt=\"${1:alt}\" title=\"${2:title}\">"
+                        },
+                        "uniqueItems": true,
+                        "minItems": 1,
                         "markdownDescription": "%conf.format%"
-                    },
-                    "InsertRelPath.separator": {
-                        "type": "string",
-                        "enum": [
-                            "/", "\\", "Adapt to OS"
-                        ],
-                        "default": "/",
-                        "markdownDescription": "%conf.separator%"
-                    },
-                    "InsertRelPath.withExtension": {
-                        "type": "boolean",
-                        "default": true,
-                        "markdownDescription": "%conf.withExtension%"
                     }
                 }
             }
