@@ -1,7 +1,7 @@
 {
     "ext.description": "相対パスを挿入します",
 
-    "insertrelpath.insertRelPath.title": "相対パスを挿入する XXX",
+    "insertrelpath.insertRelPath.title": "相対パスを挿入する",
 
     "conf.format": "挿入するフォーマットを設定します。詳しくは、[こちら](http://qiita.com) をご確認ください。"
 }

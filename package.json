@@ -81,7 +81,7 @@
                             "format10": {"type": "string", "default": "[/]{RELPATH}"}
                         },
                         "default": {
-                            "format01": "[/]<img src=\"{RELPATH}\" alt=\"${1:alt}\" title=\"${2:title}\">"
+                            "format01": "[/]{RELPATH}"
                         },
                         "uniqueItems": true,
                         "minItems": 1,

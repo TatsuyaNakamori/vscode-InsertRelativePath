@@ -1,7 +1,7 @@
 {
     "ext.description": "Insert a relative path",
 
-    "insertrelpath.insertRelPath.title": "Insert relative path XXX",
+    "insertrelpath.insertRelPath.title": "Insert relative path",
 
     "conf.format": "Set the format to be inserted. For more information, please click [here](http://qiita.com)."
 }
