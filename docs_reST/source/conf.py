@@ -18,7 +18,7 @@ import sphinx_rtd_theme
 
 # -- Project information -----------------------------------------------------
 
-project = 'My Document'
+project = 'Insert a relative path'
 copyright = '2021, Tatsuya Nakamori'
 author = 'Tatsuya Nakamori'
 

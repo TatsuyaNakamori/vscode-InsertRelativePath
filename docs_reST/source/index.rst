@@ -1,7 +1,7 @@
 .. Created by sphinx-quickstart.
 
-Welcome to My Document's documentation!
-#######################################
+Welcome to Insert a relative path's documentation!
+##################################################
 
 Latest update date of the document: [|today|]
 
@@ -14,17 +14,21 @@ Latest update date of the document: [|today|]
    :caption: Contents (English):
 
    en/sec01_overview/index
+   en/sec02_functions/index
+   en/sec03_other/index
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents (Japanese):
 
    jp/sec01_overview/index
+   jp/sec02_functions/index
+   jp/sec03_other/index
 
 
-Indices and tables
-==================
+.. Indices and tables
+.. ==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+.. * :ref:`genindex`
+.. * :ref:`modindex`
+.. * :ref:`search`
