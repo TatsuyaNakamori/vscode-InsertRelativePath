@@ -3,8 +3,8 @@
 ライセンス
 ############
 
-[REPOSITORY]
-***********************
+vscode-InsertRelativePath
+*************************
 
   MIT License
 
@@ -27,16 +27,4 @@
   LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
   OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
   SOFTWARE.
-
-----------------------------------------------------------------------------------
-
-その他、サードパーティ製ライブラリのライセンス
-**********************************************
-
-::
-
-  https://github.com/microsoft/vscode
-  vscode
-  MIT License
-  Copyright (c) 2015 - present Microsoft Corporation
 

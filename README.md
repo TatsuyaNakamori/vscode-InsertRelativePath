@@ -1,6 +1,6 @@
 # vscode-template README
 
-![sample.gif]()
+![sample.gif](docs_reST/source/_gif/relpath_all.gif)
 
 ----
 
@@ -35,7 +35,10 @@ If this tool saves you time, please donate to the development of the tool.
 
 ### 概要
 
-[概要]
+* このエクステンションは、Explorerで指定したファイルまでの相対パスを挿入します
+* 相対パスの前後に任意の文字列(Snippetにも対応)を挿入することができます
+* 例えば、挿入する文字列のフォーマットを `<link rel="stylesheet" href="{RELPATH}">` のように定義しておけば、簡単にcssファイルを読み込むための行を挿入できます。
+
 
 ### 機能
 

@@ -13,7 +13,7 @@ Settings (Config)
 
 
 .. note::
-   If you have any trouble, please report it to `Issues <https://github.com/TatsuyaNakamori/[REPOSITORY]/issues>`_.
+   If you have any trouble, please report it to `Issues <https://github.com/TatsuyaNakamori/vscode-InsertRelativePath/issues>`_.
    Bugs and other reports are only accepted from this page.
 
 

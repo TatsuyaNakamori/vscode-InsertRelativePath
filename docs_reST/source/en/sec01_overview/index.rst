@@ -9,6 +9,7 @@ In this section, we will look at the overview of this tool and how to install it
    :caption: Contents:
 
    overview
+   howToUse
    donations
 
 

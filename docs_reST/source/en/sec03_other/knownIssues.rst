@@ -9,7 +9,7 @@ Known problems and future prospects
 
 
 .. note::
-   If you have any trouble not described here, please report it from `Issues <https://github.com/TatsuyaNakamori/[REPOSITORY]/issues>`_.
+   If you have any trouble not described here, please report it from `Issues <https://github.com/TatsuyaNakamori/vscode-InsertRelativePath/issues>`_.
    Bug and trouble reports are only accepted from this page.
 
 

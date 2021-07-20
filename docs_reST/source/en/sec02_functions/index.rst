@@ -9,6 +9,6 @@ In this section, we will look at the details of each function.
    :maxdepth: 2
    :caption: Contents:
 
-   commands
    config
+   commands
 
