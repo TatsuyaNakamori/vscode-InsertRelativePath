@@ -10,6 +10,10 @@
 
 フォーマットは、複数定義することができます。その場合は、どの文字列を挿入するか、ダイアログから選択することになります。
 
+.. figure:: ../../_gif/relpath_mult.gif
+   :scale: 100%
+   :alt: relpath_mult.gif
+
 
 .. seealso::
    詳しい内容は、 :doc:`../sec02_functions/index` をご確認ください。

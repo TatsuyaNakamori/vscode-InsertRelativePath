@@ -1,7 +1,7 @@
 Overview
 ########
 
-In this section, we will look at the overview of this tool and how to install it.
+In this section, we will look at an overview of this tool and more.
 
 
 .. toctree::

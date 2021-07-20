@@ -1,32 +1,32 @@
 How to use
 ##########
 
-手順
-*****
+Process
+*******
 
-1. Settings( ``File> Preferences> Settings`` )の ``Relative Path> Format`` の項目を設定します。詳しい設定方法は :doc:`../sec02_functions/config` を参照してください。ここでは、デフォルトの設定で解説します。
+1. Set the ``Relative Path> Format`` item in Settings (``File> Preferences> Settings``).For detailed configuration instructions, see :doc:`../sec02_functions/config` for detailed configuration.In this section, we will use the default settings.
 
    .. figure:: ../../_images/relpath_doc_001.png
       :scale: 100%
       :alt: relpath_doc_001
 
-2. HTMLなどのファイルをエディタで開き、相対パスを挿入したいところにカーソルを合わせます。
+2. Open the HTML or other file in an editor and place the cursor where you want to insert the relative path.
 
    .. figure:: ../../_images/relpath_doc_003.png
       :scale: 80%
       :alt: relpath_doc_003
 
-3. Explorerで、対象のファイル(CSSや画像ファイル)の項目の上で右クリックし、 ``Insert relative path`` (``相対パスを挿入する``)を選択します。
+3. In Explorer, right-click on the item of the target file (CSS or image file) and select ``Insert relative path``.
 
-   * この時、左クリックしてしまうと、ファイルが開いてしまうので注意してください
-   * 下図では、 ``default.css`` の上で右クリックしています
+   * Note that if you left-click at this point, the file will be opened.
+   * In the figure below, right-click on ``default.css``.
 
    .. figure:: ../../_images/relpath_doc_004.png
       :scale: 80%
       :alt: relpath_doc_004
 
 
-4. (1.)のSettingsで設定したフォーマットで、相対パスが挿入されます。
+4. The relative path will be inserted in the format set in Settings in (1.).
 
    .. figure:: ../../_images/relpath_doc_005.png
       :scale: 80%
@@ -34,6 +34,6 @@ How to use
 
 
 .. seealso::
-   より詳しい解説は、 :doc:`../sec02_functions/index` をご確認ください。
+   For a more detailed explanation, see :doc:`../sec02_functions/index` for a more detailed explanation.
 
 

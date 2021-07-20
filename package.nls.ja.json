@@ -3,5 +3,5 @@
 
     "insertrelpath.insertRelPath.title": "相対パスを挿入する",
 
-    "conf.format": "挿入するフォーマットを設定します。詳しくは、[こちら](http://qiita.com) をご確認ください。"
+    "conf.format": "挿入するフォーマットを設定します。詳しくは、[こちら](https://tatsuyanakamori.github.io/vscode-InsertRelativePath/jp/sec02_functions/config.html) をご確認ください。"
 }
